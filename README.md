@@ -9,4 +9,4 @@ This game is designed to test how quickly the user can click on moving shapes. T
 
 Here is a look at how the program works!
 
-<img src = "https://github.com/brock-r/ReactionTester/blob/main/Tester.JPG"
+<img src = "https://github.com/brock-r/ReactionTester/blob/main/Tester.JPG">
